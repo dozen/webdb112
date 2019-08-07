@@ -20,7 +20,7 @@ aws_secret_access_key = 44K+t44Op44Kt/44Op55y85+YqbCg
 region                = ap-northeast-1
 ```
 
-#### AssumeRoleする場合**
+#### AssumeRoleする場合
 AWSアカウントB (アカウントID: `111111111111`) のIAMロール `ExampleAdminDeveloper` をAssumeRoleする場合、 `~/.aws/credentials` に以下のようにセットしてください。
 
 ```
